@@ -1,7 +1,4 @@
 from functions import get_todos, write_todos
-# import functions
-#functions.get_todos
-#from directory import functions
 
 while True:
     user_action = input("Type add, show, edit, complete or exit: ")
